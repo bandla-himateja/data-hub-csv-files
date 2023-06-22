@@ -1,0 +1,2 @@
+resource,subresource,glossary_terms,tags,owners,ownership_type,description,domain
+"urn:li:dataset:(urn:li:dataPlatform:excel,yellow_tripdata_sample_2019-01",,[urn:li:glossaryTerm:yellow_tripdata_sample_2019-01],[urn:li:tag:HighQuality],,,"Description for your Excel dataset",urn:li:domain:Engineering
